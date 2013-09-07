@@ -1,0 +1,24 @@
+{
+  "name": "eraser",
+  "version": "0.0.0",
+  "description": "a chrome expr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/turingou/eraser.git"
+  },
+  "keywords": [
+    "chrome",
+    "html5",
+    "mobile",
+    "motion"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/eraser/issues"
+  }
+}
